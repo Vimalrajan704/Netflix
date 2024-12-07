@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pro"
+		},
+		{
+			"path": "../web"
+		},
+		{
+			"path": "../whatsapp clone"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "whatsapp clone"
+	}
+}
